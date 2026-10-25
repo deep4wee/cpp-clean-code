@@ -1,0 +1,32 @@
+# Build and binary outputs
+build/
+bin/
+out/
+dist/
+cmake-build-*/
+*.exe
+*.dll
+*.so
+*.dylib
+*.obj
+*.o
+*.a
+*.lib
+*.pdb
+
+# IDE and Editor configs
+.vscode/
+.idea/
+*.user
+*.suo
+*.workspace
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and scratch
+*.log
+scratch/
+tmp/
